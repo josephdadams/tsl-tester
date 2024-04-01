@@ -1,0 +1,18 @@
+{
+  "name": "tsltester",
+  "version": "1.0.0",
+  "description": "Sends dummy TSL data to your server for testing",
+  "main": "index.js",
+  "dependencies": {
+    "cli-color": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gpio",
+    "tsl"
+  ],
+  "author": "Joseph Adams <josephdadams@gmail.com>",
+  "license": "MIT"
+}

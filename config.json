@@ -1,0 +1,41 @@
+{
+	"server_config": {
+		"ip": "127.0.0.1",
+		"port": 9801,
+		"transport": "udp"
+	},
+	"addresses": [
+		{
+			"address": 1,
+			"label": "CAM 1"
+		},
+		{
+			"address": 2,
+			"label": "CAM 2"
+		},
+		{
+			"address": 3,
+			"label": "CAM 3"
+		},
+		{
+			"address": 4,
+			"label": "CAM 4"
+		},
+		{
+			"address": 15,
+			"label": "CAM 5"
+		},
+		{
+			"address": 16,
+			"label": "CAM 6"
+		},
+		{
+			"address": 17,
+			"label": "CAM 7"
+		},
+		{
+			"address": 18,
+			"label": "CAM 8"
+		}
+	]
+}
