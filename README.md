@@ -21,8 +21,6 @@ An array of TSL Address and label information.
 Each object should include:
 - `address`: The address number to send.
 - `label`: The label/name/mnemonic to send.
-- `current_pvw_state`: Default/startup value for this address's preview value. Can be `0` or `1`.
-- `current_pgm_state`: Default/startup value for this address's program value. Can be `0` or `1`.
 
 ## Running the Program
 You can simply run the program from the terminal: `node index.js`.
